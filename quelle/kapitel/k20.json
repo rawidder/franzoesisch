@@ -1,0 +1,47 @@
+{"nr":19,"id":"k20","title":"Verbalperiphrasen","teil":"Das Verb und seine Ergänzungen","intro":"Mit Fügungen aus einem Hilfsverb und einem Infinitiv drückt das Französische aus, ob etwas bevorsteht, gerade abläuft, beginnt, aufhört oder sich wiederholt. Viele davon sind im Alltag häufiger als die einfachen Zeiten.","sections":[
+{"h":"Zeitliche Periphrasen im Überblick","html":"<table><tr><th>Periphrase</th><th>Bedeutung</th><th>Beispiel</th></tr><tr><td><em>aller</em> + Inf.</td><td>werden, gleich (futur proche)</td><td><em>Je vais partir.</em></td></tr><tr><td><em>être sur le point de</em> + Inf.</td><td>im Begriff sein</td><td><em>Le train est sur le point de partir.</em></td></tr><tr><td><em>être en train de</em> + Inf.</td><td>gerade dabei sein</td><td><em>Je suis en train de lire.</em></td></tr><tr><td><em>venir de</em> + Inf.</td><td>gerade getan haben</td><td><em>Il vient de sortir.</em></td></tr><tr><td><em>commencer à / se mettre à</em></td><td>anfangen</td><td><em>Il s'est mis à pleuvoir.</em></td></tr><tr><td><em>continuer à / de</em></td><td>weitermachen</td><td><em>Elle continue à travailler.</em></td></tr><tr><td><em>finir de / arrêter de / cesser de</em></td><td>aufhören</td><td><em>J'ai fini de manger.</em></td></tr></table><div class='tip'>Merke: Die Reihenfolge auf einer Zeitachse: <em>être sur le point de → commencer à → être en train de → finir de → venir de</em>.</div>"},
+{"h":"être en train de: die Verlaufsform","html":"<p>Das Französische hat keine grammatische Verlaufsform wie das Englische („I am reading“) oder Spanische (<em>estoy leyendo</em>). Das einfache Präsens reicht meist: <em>Je lis.</em> – Ich lese (gerade).</p><p>Will man betonen, dass etwas <b>gerade jetzt</b> abläuft, nimmt man <em>être en train de</em>:</p><ul><li><em>Ne me dérange pas, je suis en train de travailler.</em> – Stör mich nicht, ich arbeite gerade.</li><li><em>Qu'est-ce que tu es en train de faire ?</em> – Was machst du gerade?</li><li>Im imparfait: <em>J'étais en train de dormir quand tu as appelé.</em></li></ul><div class='warn'>Achtung: Nie <em>je suis lisant</em> ✗ – das gérondif oder Partizip Präsens bildet keine Verlaufsform.</div>"},
+{"h":"aller, venir de und être sur le point de","html":"<p><b>aller</b> + Infinitiv: nahe Zukunft, Absicht (Kapitel 14). Im imparfait: Handlung, die gleich stattfinden sollte: <em>J'allais partir quand il est arrivé.</em> – Ich wollte gerade gehen, als …</p><p><b>venir de</b> + Infinitiv: unmittelbare Vergangenheit (Kapitel 13): <em>Je viens de finir.</em> – Im imparfait: <em>Il venait de partir.</em></p><p><b>être sur le point de</b> + Infinitiv: kurz davor sein: <em>J'étais sur le point de t'appeler.</em> – Ich war gerade dabei, dich anzurufen.</p><div class='tip'>Merke: <em>faillir</em> + Infinitiv (nur im passé composé) = beinahe: <em>J'ai failli tomber.</em> – Ich wäre beinahe gefallen.</div>"},
+{"h":"Beginn, Fortsetzung und Ende","html":"<ul><li><em>commencer à</em> – anfangen zu: <em>Il commence à faire froid.</em></li><li><em>se mettre à</em> – (plötzlich) anfangen: <em>Le bébé s'est mis à pleurer.</em></li><li><em>continuer à / de</em> – weitermachen: <em>Continue à chercher !</em></li><li><em>finir de</em> – fertig werden: <em>Tu as fini de manger ?</em></li><li><em>arrêter de / cesser de</em> – aufhören: <em>Arrête de crier ! Il a cessé de pleuvoir.</em></li><li><em>finir par</em> – schließlich, am Ende: <em>Il a fini par accepter.</em> – Er hat schließlich zugestimmt.</li><li><em>commencer par</em> – zuerst: <em>Commençons par le début.</em></li></ul><div class='warn'>Achtung: <em>finir de</em> (fertig werden mit) ≠ <em>finir par</em> (letztendlich etwas tun): <em>J'ai fini de lire.</em> – <em>J'ai fini par lire le livre.</em></div>"},
+{"h":"Wiederholung und Gewohnheit","html":"<ul><li><em>re-</em> als Vorsilbe: <em>refaire, relire, revoir, recommencer</em> – <em>Il faut tout recommencer.</em></li><li><em>de nouveau, encore</em>: <em>Il pleut de nouveau. Tu es encore en retard !</em></li><li><em>avoir l'habitude de</em> – gewohnt sein: <em>J'ai l'habitude de me lever tôt.</em></li><li><em>avoir tendance à</em> – dazu neigen: <em>Il a tendance à exagérer.</em></li><li><em>ne pas arrêter de</em> – ständig: <em>Il n'arrête pas de parler.</em> – Er redet ununterbrochen.</li><li><em>passer son temps à</em>: <em>Elle passe son temps à lire.</em></li></ul><div class='tip'>Merke: <em>Il n'arrête pas de pleuvoir.</em> = Es regnet ununterbrochen – sehr idiomatisch.</div>"},
+{"h":"Modale Periphrasen","html":"<table><tr><th>Ausdruck</th><th>Bedeutung</th><th>Beispiel</th></tr><tr><td><em>devoir</em> + Inf.</td><td>müssen; Vermutung</td><td><em>Il doit être malade.</em> – Er ist wohl krank.</td></tr><tr><td><em>il faut</em> + Inf.</td><td>man muss</td><td><em>Il faut partir.</em></td></tr><tr><td><em>avoir à</em> + Inf.</td><td>zu tun haben</td><td><em>J'ai beaucoup à faire.</em></td></tr><tr><td><em>être obligé de</em></td><td>gezwungen sein</td><td><em>Je suis obligé de partir.</em></td></tr><tr><td><em>avoir besoin de</em></td><td>brauchen</td><td><em>J'ai besoin de dormir.</em></td></tr><tr><td><em>avoir envie de</em></td><td>Lust haben</td><td><em>J'ai envie de sortir.</em></td></tr><tr><td><em>il vaut mieux</em></td><td>es ist besser</td><td><em>Il vaut mieux attendre.</em></td></tr><tr><td><em>avoir beau</em> + Inf.</td><td>noch so sehr … (vergeblich)</td><td><em>J'ai beau chercher, je ne trouve pas.</em></td></tr></table><div class='tip'>Merke: <em>J'ai beau essayer …</em> – So sehr ich es auch versuche … Eine elegante, typisch französische Wendung.</div>"}
+],
+"exercises":[
+{"type":"gap","title":"Welche Periphrase?","task":"Setze die passende Periphrase ein (Präsens).","items":[
+{"q":"Chut ! Le bébé ___ dormir. (gerade dabei)","a":["est en train de"],"de":"Pst! Das Baby schläft gerade."},
+{"q":"Le film ___ commencer. (im Begriff)","a":["est sur le point de"],"de":"Der Film fängt gleich an."},
+{"q":"Nous ___ arriver. (gerade getan)","a":["venons d'"],"de":"Wir sind gerade angekommen."},
+{"q":"Il ___ faire beau. (anfangen)","a":["commence à"],"de":"Es wird langsam schön."},
+{"q":"Elle ___ fumer l'an dernier. (aufhören, passé composé)","a":["a arrêté de"],"de":"Sie hat letztes Jahr aufgehört zu rauchen."},
+{"q":"Je ___ partir en vacances demain. (futur proche)","a":["vais"],"de":"Ich fahre morgen in Urlaub."},
+{"q":"Il ___ parler pendant le film ! (ununterbrochen)","a":["n'arrête pas de"],"de":"Er redet während des Films ununterbrochen!"}]},
+{"type":"choice","title":"Bedeutung erkennen","task":"Was bedeutet der Satz?","items":[
+{"q":"J'ai failli rater le train.","options":["Ich habe den Zug verpasst.","Ich hätte beinahe den Zug verpasst."],"a":1,"why":"faillir = beinahe."},
+{"q":"Il a fini par comprendre.","options":["Er hat schließlich verstanden.","Er hat aufgehört zu verstehen."],"a":0,"why":"finir par = schließlich."},
+{"q":"Elle s'est mise à rire.","options":["Sie fing an zu lachen.","Sie hörte auf zu lachen."],"a":0,"why":"se mettre à = anfangen."},
+{"q":"Il doit être chez lui.","options":["Er muss nach Hause.","Er ist wohl zu Hause."],"a":1,"why":"devoir als Vermutung."},
+{"q":"J'ai beau lui expliquer, il ne comprend pas.","options":["Ich erkläre es ihm schön.","So sehr ich es ihm erkläre, er versteht es nicht."],"a":1,"why":"avoir beau = vergeblich, so sehr auch."},
+{"q":"J'allais te téléphoner.","options":["Ich wollte dich gerade anrufen.","Ich bin dich anrufen gegangen."],"a":0,"why":"aller im imparfait + Infinitiv."}]},
+{"type":"choice","title":"finir de oder finir par?","task":"Wähle die richtige Präposition.","items":[
+{"q":"Tu as fini ___ ranger ta chambre ?","options":["de","par"],"a":0,"why":"fertig werden mit → finir de."},
+{"q":"Après des heures de discussion, il a fini ___ dire oui.","options":["de","par"],"a":1,"why":"schließlich → finir par."},
+{"q":"On commence ___ l'entrée, puis le plat.","options":["à","par"],"a":1,"why":"zuerst → commencer par."},
+{"q":"Il commence ___ neiger.","options":["à","par"],"a":0,"why":"anfangen zu → commencer à."},
+{"q":"Continue ___ travailler !","options":["à","par"],"a":0,"why":"continuer à."}]}],
+"cards":[
+{"f":"être en train de","b":"gerade dabei sein: Je suis en train de lire."},
+{"f":"être sur le point de","b":"im Begriff sein: Le train est sur le point de partir."},
+{"f":"venir de + Infinitiv","b":"gerade getan haben"},
+{"f":"aller + Infinitiv im imparfait","b":"gerade tun wollen: J'allais partir."},
+{"f":"faillir + Infinitiv","b":"beinahe: J'ai failli tomber."},
+{"f":"se mettre à","b":"(plötzlich) anfangen"},
+{"f":"finir de / finir par","b":"fertig werden mit / schließlich etwas tun"},
+{"f":"commencer à / commencer par","b":"anfangen zu / zuerst etwas tun"},
+{"f":"arrêter de / cesser de","b":"aufhören zu"},
+{"f":"Er redet ununterbrochen.","b":"Il n'arrête pas de parler."},
+{"f":"avoir l'habitude de","b":"gewohnt sein zu"},
+{"f":"avoir tendance à","b":"dazu neigen"},
+{"f":"devoir als Vermutung","b":"Il doit être malade. – Er ist wohl krank."},
+{"f":"avoir beau + Infinitiv","b":"noch so sehr … (vergeblich): J'ai beau chercher …"},
+{"f":"il vaut mieux","b":"es ist besser: Il vaut mieux attendre."},
+{"f":"Verlaufsform wie im Spanischen (estoy leyendo)?","b":"Gibt es nicht – einfaches Präsens oder être en train de"}]}
